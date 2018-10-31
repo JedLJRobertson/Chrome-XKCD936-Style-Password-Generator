@@ -1,0 +1,10 @@
+{
+    "name": "XKCD-Style Password Generator",
+    "version": "1.0",
+    "description": "Autofill with a generated XKCD 936 password (four dictionary words).",
+    "permissions": ["contextMenus", "activeTab"],
+    "background": {
+      "scripts": ["background.js"]
+    },
+    "manifest_version": 2
+}
