@@ -3,6 +3,8 @@ XKCD936 inspired password inserter for chrome.
 
 A simple Chrome plugin that generates a four word password into any text/password field. The password is also copied to your clipboard. I designed this specifically for use with Lastpass as I wanted to generate secure* but memorable passwords for each site.  
 
+Use: Right click on a field, select "Generate XKCD Style Password". 
+
 The password style was inspired by this XKCD:
 
 https://xkcd.com/936/
@@ -13,3 +15,4 @@ Todo:
 - Control for how many words to generate.
 - Option for to add numeric/special character fluff for poorly designed password input fields.
 - Option to disable copying to clipboard. 
+- Icon
